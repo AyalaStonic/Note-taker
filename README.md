@@ -10,4 +10,9 @@ Screenshots
  
  
 
+<<<<<<< HEAD
 Run `npm install` to install all dependencies. To use the application locally, run `node server.js` in your CLI, and then open `http://localhost:3000` in your preferred browser. 
+=======
+Run `npm install` to install it. To use the application locally, run `node server.js` in your Terminal, and then open `http://localhost:3000` in your preferred browswer.
+
+>>>>>>> d0d0db4122ee339448236247b3681eab0ab7b308
