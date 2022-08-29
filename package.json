@@ -9,15 +9,15 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Leocrydis/Note-Taker.git"
+    "url": "git+https://github.com/AyalaStonic/Note-taker.git"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/Leocrydis/Note-Taker/issues"
+    "url": "https://github.com/AyalaStonic/Note-taker/issues"
   },
-  "homepage": "https://github.com/Leocrydis/Note-Taker#readme",
+  "homepage": "https://github.com/AyalaStonic/Note-taker#readme",
   "dependencies": {
     "express": "^4.18.1",
     "jquery": "^3.6.0"
